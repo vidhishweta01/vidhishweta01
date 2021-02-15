@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learned html, CSS, bootstrap with sass
-- I have finished three projects in collaboration just for learning purpose in html css and bootsrap
+- 🌱 Hii I am a Computer science graduate with knowledge in Html CSS, Java, python, Bootstrap and I would like to work as full stack developer
 
 
 - 📫 How to reach me: vidhi.shweta01@gmail.com
