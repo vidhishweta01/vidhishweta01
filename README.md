@@ -5,3 +5,5 @@
 
 - 📫 How to reach me: vidhi.shweta01@gmail.com
 -->
+
+![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhishweta01&show_icons=true&theme=dracula) 
