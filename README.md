@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🌱 Hii I am a Computer science graduate with knowledge in Html CSS, Java, python, Bootstrap and I would like to work as full stack developer
+- 🌱 Hii I am a Computer science graduate with hands on in Html CSS, Java, python, Bootstrap, Ruby, ruby on rails and I would like to work as full stack developer
+
+- 📫 How to reach me: 
+- GitHub: [@ShwetaSrivastava](https://github.com/vidhishweta01)
+- Twitter: [@ShwetaSrivastava](https://twitter.com/vidhishweta01)
+- LinkedIn: [ShwetaSrivastava](https://www.linkedin.com/in/vidhishweta01/)
 
 
-- 📫 How to reach me: vidhi.shweta01@gmail.com
--->
-
-<img src="assets/Banner-flicker.gif">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Ruby on rails-CC3242D?style=for-the-badge&logo=sass&logoColor=white">
 
