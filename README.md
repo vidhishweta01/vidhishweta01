@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 Hii I am a Computer science graduate with hands on in Html CSS, Java, python, Bootstrap, Ruby, ruby on rails and I would like to work as full stack developer
+- 🌱 Hii I am a Computer science graduate with hands on in Html CSS, Java, python, Bootstrap, Ruby, ruby on rails. 
+-      I am passionate about learning new things, working on innovative ideas 
+-            I would like to work as full stack developer
 
 - 📫 How to reach me: 
 - GitHub: [@ShwetaSrivastava](https://github.com/vidhishweta01) - Twitter: [@ShwetaSrivastava](https://twitter.com/vidhishweta01) - LinkedIn: [ShwetaSrivastava](https://www.linkedin.com/in/vidhishweta01/)
