@@ -7,3 +7,5 @@
 -->
 
 ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhishweta01&show_icons=true&theme=dracula) 
+
+![Shweta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhishweta01&theme=dracula) 
