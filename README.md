@@ -1,4 +1,4 @@
-### <img src="60f467721ee7c462090971.gif">
+### <img src="bio.gif">
 
 - 📫 How to reach me: 
 ## GitHub: [@ShwetaSrivastava](https://github.com/vidhishweta01) Twitter: [@ShwetaSrivastava](https://twitter.com/vidhishweta01) LinkedIn: [ShwetaSrivastava](https://www.linkedin.com/in/vidhishweta01/)
